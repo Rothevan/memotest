@@ -1,0 +1,22 @@
+{
+  "name": "memotest",
+  "version": "1.0.0",
+  "description": "memotest made for argentina programa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rothevan/memotest.git"
+  },
+  "author": "Rothevan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rothevan/memotest/issues"
+  },
+  "homepage": "https://github.com/Rothevan/memotest#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}

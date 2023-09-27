@@ -1,0 +1,60 @@
+.tablero {
+background-color: rgb(94, 94, 94);
+}
+
+.tarjeta {
+    opacity: 0;
+    border-width: 10px;
+}
+
+.pikachu {
+    background-image: url('assets/Pikachu.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+  
+}
+
+.totodile {
+    background-image: url('assets/158-Totodile.webp');
+    background-repeat: no-repeat;
+    background-size:contain;
+    
+    
+}
+
+.bulbasaur {
+    background-image: url('assets/001_bulbasaur_by_pklucario-d5z1g10.webp');
+    background-repeat: no-repeat;
+    background-size:contain;
+   
+}
+
+.charmander {
+    background-image: url('assets/Charmander.webp');
+    background-repeat: no-repeat;
+    background-size:contain;
+   
+}
+
+.squirtle {
+    background-image: url('assets/007.png');
+    background-repeat: no-repeat;
+    background-size:contain;
+   
+}
+
+.chikorita {
+    background-image: url('152_chikorita_by_pklucario.webp');
+    background-repeat: no-repeat;
+    background-size:contain;
+    
+}
+
+.linea {
+    height: 50vh;
+    min-height: 50vh;
+}
+
+.cuadro {
+    height: 50vh;
+}
